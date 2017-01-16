@@ -12,5 +12,7 @@ atlassian-ide-plugin.xml
 /var
 /js/grunt/node_modules
 /vendor
+/vendor
+/vendor
 /js/bower
 /js/bower
